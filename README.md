@@ -4,7 +4,7 @@ local InterfaceManager = loadstring(game:HttpGet("https://raw.githubusercontent.
 ----------------------------------------------------------------------------------------------------------------------------------------------
 local Window = Fluent:CreateWindow({
     Title = "𝘿𝙍𝙀𝘼𝙈 𝙃𝙐𝘽",
-    SubTitle = "Version 2.0",
+    SubTitle = "Blox fruits",
     TabWidth = 160,
     Size = UDim2.fromOffset(500, 320),
     Acrylic = true,
