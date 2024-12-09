@@ -3,7 +3,7 @@ local SaveManager = loadstring(game:HttpGet("https://raw.githubusercontent.com/d
 local InterfaceManager = loadstring(game:HttpGet("https://raw.githubusercontent.com/dawid-scripts/Fluent/master/Addons/InterfaceManager.lua"))()
 ----------------------------------------------------------------------------------------------------------------------------------------------
 local Window = Fluent:CreateWindow({
-    Title = "𝘿𝙍𝙀𝘼𝙈 𝙃𝙐𝘽",
+    Title = " D R E A M H U B",
     SubTitle = "Blox fruits",
     TabWidth = 160,
     Size = UDim2.fromOffset(500, 320),
